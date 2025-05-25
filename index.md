@@ -3,8 +3,6 @@ layout: default
 title: "Vijaykumar Pardeshi - Software Architect"
 ---
 
-# Vijaykumar Pardeshi
-
 **Email:** [mail2vijaypardeshi@gmail.com](mailto:mail2vijaypardeshi@gmail.com)  
 **Phone:** +1-646-644-9952  
 **LinkedIn:** [linkedin.com/in/vijaykumar-pardeshi](https://www.linkedin.com/in/vijaykumar-pardeshi)
