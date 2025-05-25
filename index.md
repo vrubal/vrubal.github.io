@@ -71,7 +71,7 @@ Jul 2006 – May 2010
 
 ## Download PDF
 
-[Download Resume PDF](Vijaykumar_resume.pdf)
+[Download Detailed Resume PDF](Vijaykumar_Resume_detailed.pdf)
 
 ---
 
